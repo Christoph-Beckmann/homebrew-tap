@@ -1,6 +1,6 @@
 cask "interceptor-browser" do
-  version "0.22.2"
-  sha256 "a7366ba823cfe638089b573d13b16bdbc2a3ea1f2a6a6b00ecfac3cf012ed4f7"
+  version "0.22.8"
+  sha256 "fb2beec8f76bf7ce30642d8db38ee7460aa8280b1ba9acec9b4b55d1f5e52574"
 
   url "https://github.com/Hacker-Valley-Media/Interceptor/releases/download/v#{version}/Interceptor-Browser-#{version}.pkg"
   name "Interceptor Browser"
